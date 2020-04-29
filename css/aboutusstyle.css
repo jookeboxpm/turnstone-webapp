@@ -1,0 +1,17 @@
+.image-header{
+    background-image: url('../images/building.jpg');
+    height: 100vh;
+    min-height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.about-us-cards{
+    box-shadow: 0 9px 22px 0 rgba(0,0,0,.1);
+}
+.associate-partner-cards{
+    box-shadow: 0 9px 22px 0 rgba(0,0,0,.1);
+}
+.card-spacing{
+    padding: 10px;
+}
